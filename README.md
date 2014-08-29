@@ -10,3 +10,8 @@ Here is what looks like the bar:
 ## Instructions
 
 To use this script in your pages, add this snippet of code before </ body> tag:
+
+```
+<script src="js/jquery.cookie.js"></script>
+<script src="js/app.js"></script>
+```
