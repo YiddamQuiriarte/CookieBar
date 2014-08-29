@@ -9,6 +9,4 @@ Here is what looks like the bar:
 
 ## Instructions
 
-Pour utiliser ce script dans vos pages, ajoutez ce bout de code avant la balise </body> :
-
-
+To use this script in your pages, add this snippet of code before </ body> tag:
