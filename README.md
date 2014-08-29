@@ -7,6 +7,8 @@ As you probably know, the law requires you to enter a bar henceforth your visito
 Here is what looks like the bar:
 ![](http://puu.sh/bcXxA/a9249bfb76.png)
 
+Live Test : [Click Here](http://itouchack.github.io/CookieBar/)
+
 ## Instructions
 
 To use this script in your pages, add this snippet of code before </ body> tag:
