@@ -5,3 +5,9 @@ As you probably know, the law requires you to enter a bar henceforth your visito
 ## Screenshots
 
 Here is what looks like the bar:
+![](http://puu.sh/bcXxA/a9249bfb76.png)
+
+## Instructions
+
+
+
