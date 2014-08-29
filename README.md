@@ -16,7 +16,7 @@ To use this script in your pages, add this snippet of code before </ body> tag:
 <script src="js/app.js"></script>
 ```
 
-And include this snippet of code before the </head> tag:
+And include this snippet of code before the </ head> tag:
 
 ```
 <link rel="stylesheet" href="css/cookie.css">
